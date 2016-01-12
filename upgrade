@@ -3,6 +3,7 @@ PWD=$pwd
 git add -A .
 git commit -m "$1"
 git push origin master
+hugo -d ../prod
 cd ../prod
 git add -A .
 git commit -m "$1"
