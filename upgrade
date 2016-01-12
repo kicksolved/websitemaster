@@ -1,0 +1,10 @@
+#!/bin/bash
+PWD=$pwd
+git add -A .
+git commit -m "$1"
+git push origin master
+cd ../prod
+git add -A .
+git commit -m "$1"
+git push origin master:gh-pages
+cd $PWD

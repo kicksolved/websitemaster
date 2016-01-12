@@ -2,7 +2,7 @@
 baseurl = "http://kicksolved.com/"
 languageCode = "en-us"
 title = "KickSolved - Pre-Order App Solutions to Daily Problems"
-theme = "hugo-agency-theme"
+theme = "kicksolved"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
@@ -49,7 +49,7 @@ googleAnalytics = ""
 									problem = "wifi2"
 
 							[[params.topproblems.row.list]]
-									problem = "wifi3"
+									problem = "fr1"
 
 	# Navigation
 	[params.navigation]
@@ -62,6 +62,7 @@ googleAnalytics = ""
 	[params.problems]
 	  kick = "<< Kick"
 	  solve = "Solve >>"
+		device = "Device: "
 		[params.problems.modal]
             startdate = "Start Date"
             enddate = "End Date"

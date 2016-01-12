@@ -779,6 +779,7 @@ html {
 .mbr-hero {
   color: #fff;
   position: relative;
+  text-shadow: 1px 1px #000000;
 }
 .mbr-hero__text {
   font-size: 46px;
