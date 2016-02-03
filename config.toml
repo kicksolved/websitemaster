@@ -49,7 +49,7 @@ googleAnalytics = "UA-72439034-1"
 									problem = "wifi2"
 
 							[[params.topproblems.row.list]]
-									problem = "w1"
+									problem = "fr3"
 
 	# Navigation
 	[params.navigation]
