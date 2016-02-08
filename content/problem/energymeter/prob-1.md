@@ -10,4 +10,4 @@ title = "Useless Electric Meter?"
 weight = "0"
 device = "Energy Meter"
 +++
-Is your Electric Meter just showing one overall number?
+Is your Electric Meter just showing one overall number? You want to safe energy but don't know how?
