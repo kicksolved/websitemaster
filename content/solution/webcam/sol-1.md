@@ -4,9 +4,9 @@ id = "wc1"
 weight = "1"
 startdate = "2015-12-25"
 enddate = "2016-02-28"
-image = "solution/searchwebcam.png"
+image = "solution/webcams.jpeg"
 kicked = "/problem/homealarm/prob-1/"
-pledge = "$10/year"
+pledge = "$3/year"
 title = "Automatically Find Webcams"
 +++
 Automatically find webcams from your mobile and easily set them up. No need to answer any network questions.
