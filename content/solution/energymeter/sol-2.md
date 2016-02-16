@@ -8,5 +8,6 @@ pledge = "$10/year"
 startdate = "2015-12-25"
 title = "Energy saving solution for home appliances"
 weight = "0"
+preorder = "beta"
 +++
 If you have smart dishwashers, washing machines, freezers, fridges, laundry dryers, etc. then via this app they can communicate and negotiate the best possible tariff for when to turn on. An average family will easily save multiples of the price of this app.

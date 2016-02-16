@@ -8,5 +8,6 @@ pledge = "$2/year"
 startdate = "2015-12-25"
 title = "Alert Your Mobile"
 weight = "0"
+preorder = "beta"
 +++
 If the temperature is getting too high, e.g. fridge broke or fire in the kitchen, then you get an alert on your mobile. If the connectivity with the fridge is lost you get an alert.

@@ -8,5 +8,6 @@ image = "solution/mobileunlockpattern.jpg"
 kicked = "/problem/energymeter/prob-1/"
 pledge = "$10/year"
 title = "No more keypads"
+preorder = "beta"
 +++
 Use your mobile to unlock the alarm and just use a pattern. No need for difficult codes to remember. No need for putting extra keypads. If you have any smart device with a touchscreen, e.g. fridge, washing machine,..., then you can also switch off the alarm from there.

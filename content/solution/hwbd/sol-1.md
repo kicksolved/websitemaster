@@ -7,6 +7,7 @@ enddate = "2016-02-28"
 video = "G7RgN9ijwE4"
 kicked = "/problem/hwbd/prob-2/"
 title = "The Solution: New Business in 1, 2, 3"
+preorder = "beta"
 +++
 1. Employees & customers brainstorm problems for a specific device category. Customers validate if a problem is fake [Kick] or real [Solve].<br>
 2. Solutions are proposed and either Kicked or Pre-Ordered.<br>

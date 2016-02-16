@@ -8,5 +8,6 @@ pledge = "$10/year"
 startdate = "2015-12-25"
 title = "At night fridge is locked."
 weight = "0"
+preorder = "beta"
 +++
 To open your fridge at night you have to stand on your bluetooth enabled scale. Only afterwards will the smart lock on the fridge be opened.
