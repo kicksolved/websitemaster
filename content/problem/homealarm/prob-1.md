@@ -8,6 +8,6 @@ kicked = "webcam/prob-1/"
 solutions = ["homealarm/sol-1/"]
 startdate = "2015-12-25"
 title = "Why a separate key pad?"
-weight = "0"
+weight = "5"
 +++
 Always changing batteries! Drilling walls! Difficult codes to remember?

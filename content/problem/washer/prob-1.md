@@ -8,6 +8,6 @@ kicked = "homealarm/prob-1/"
 solutions = ["washer/sol-1/"]
 startdate = "2015-12-25"
 title = "You need a PhD"
-weight = "0"
+weight = "6"
 +++
 Doing the washing should not be hard. Different family members have different skill sets when it comes to selecting the correct washing programme.

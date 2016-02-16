@@ -1,6 +1,6 @@
 +++
 id = "wifi2"
-weight = "2"
+weight = "0"
 startdate = "2015-12-25"
 enddate = "2016-02-28"
 solutions = ["wifi/sol-2/"]

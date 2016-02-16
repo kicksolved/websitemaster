@@ -7,7 +7,7 @@ kicked = "fridge/prob-2/"
 solutions = ["fridge/sol-1/"]
 startdate = "2015-12-25"
 title = "Fridge Without Electricity?"
-weight = "0"
+weight = "5"
 device = "Fridge"
 +++
 Why is it that your fridge always has a problem when you are on holiday?

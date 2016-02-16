@@ -8,6 +8,6 @@ kicked = "wifi/prob-1/"
 solutions = ["webcam/sol-1/"]
 startdate = "2015-12-25"
 title = "Configuring Webcam is Hard"
-weight = "0"
+weight = "4"
 +++
 The Webcam admin pages are for experts only.
