@@ -8,6 +8,6 @@ pledge = "$2/year"
 startdate = "2015-12-25"
 title = "Smart Energy Meter with Usage Tracking"
 weight = "0"
-preorder = "beta"
+preorder = "2"
 +++
 Via a smart energy meter and detection of the devices that get switched on, it would be possible to check usage via a mobile app.

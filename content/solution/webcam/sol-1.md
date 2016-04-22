@@ -8,6 +8,6 @@ image = "solution/webcams.jpeg"
 kicked = "/problem/homealarm/prob-1/"
 pledge = "$3/year"
 title = "Automatically Find Webcams"
-preorder = "beta"
+preorder = "3"
 +++
 Automatically find webcams from your mobile and easily set them up. No need to answer any network questions.

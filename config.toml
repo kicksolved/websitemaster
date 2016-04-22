@@ -74,6 +74,7 @@ googleAnalytics = "UA-72439034-1"
 		# Solutions
 		[params.solutions]
 		  kick = "<< Kick"
+			solved = "Solved >>"
 			preorder = "Pre-Order"
 			[params.solutions.modal]
 	            problem = "Problem"
@@ -87,6 +88,11 @@ googleAnalytics = "UA-72439034-1"
 							percentage = "Percentage"
 							solution = "Solution"
 							image = "Image"
+
+		# Solutions
+		[params.preorder]
+			preorder = "Pre-Order"
+			tooexpensive = "Too Expensive"
 
 		# Categories
 		[params.devices]

@@ -8,6 +8,6 @@ image = "solution/mobileappforwashing.jpg"
 kicked = "/problem/fridge/prob-1/"
 pledge = "$10/year"
 title = "Control via your Mobile"
-preorder = "beta"
+preorder = "10"
 +++
 Use a mobile app to control your washing machine. Each member of the family can have a personalised experience. The washing programmes you normally use are automatically suggested. If you need help with instructions on some type of cloths, just scan the label. Optionally your washer can have the app also embedded in a touchscreen.
